@@ -1,2 +1,2 @@
 # fetchman
-An api viewer thing using the fetch api
+A hoppscotch clone using the fetch api
