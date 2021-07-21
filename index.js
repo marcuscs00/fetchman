@@ -1,3 +1,6 @@
+let uri = document.querySelector('textarea').value;
+
 function send() {
-	fetch(`uri`)
+	console.log(fetch(`${uri}`));
 }
+
